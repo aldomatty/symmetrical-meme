@@ -1,0 +1,2 @@
+# symmetrical-meme
+primer repositorio
